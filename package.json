@@ -5,6 +5,7 @@
   "author": "Eduardo Rabelo <oieduardorabelo@gmail.com> (https://github.com/oieduardorabelo)",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.2",
     "jest": "^22.4.2",
     "jest-axe": "^2.1.2",
     "jest-environment-node": "^22.4.1",
